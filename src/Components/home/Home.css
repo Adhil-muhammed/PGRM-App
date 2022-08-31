@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+h5 {
+  margin:0px;
+}
+.discription {
+  margin-top: 5px;
+}
+
+.Container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards1,
+.cards2,
+.cards3 {
+  width: 295px;
+  color: rgb(0, 0, 0);
+  margin: 3rem;
+}
